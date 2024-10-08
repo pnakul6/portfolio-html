@@ -52,6 +52,7 @@ body {
     transition: color 0.3s ease-in, background-color 0.3s ease;
     font-size: 15px;
     font-weight: 600;
+    color:rebeccapurple;
 }
 
 .navbar a:hover {
