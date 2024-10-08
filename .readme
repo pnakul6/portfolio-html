@@ -1,0 +1,23 @@
+Hi I am Nakul Pandit
+I made this project with HTML, CSS and JAVASCRIPT.
+
+<!---> 
+My approach for this portfolio website project 
+<!--->
+
+My approach was Responsive Design Approach that is I made sure my layouts fits all the screens and mobiles sizes. I have made it to fit from regular screen sizes to even 340 pixels widths screens with the help of media queries in CSS.
+
+The first section of my website contains my brief introduction. It has a button to download my full resume and also direct links to my github, linkedin and email.
+
+The next section is project section in which I have shown my projects and also have implemented an external API to fetch more projects. When the user clicks on title of my project a modal will appear with full details of my project.
+
+The last section is Contact section in which the user can enter his/her details and send response. This contact form is completely validated by javascript to ensure all the details are filled and are in valid structure.
+
+<!---> 
+How to run the project 
+<!--->
+
+Steps to Run the Project
+
+1) To run the project just copy this files in the same folder structure as they are or clone it from Github. 
+2) After having all the files, open them in VS code or other code editor then go to index.html file and open it with live server(browser).
