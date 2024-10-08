@@ -43,6 +43,7 @@ body {
     box-sizing: border-box;
     align-items: center;
     font-family: Andale Mono, monospace;
+    color:rebeccapurple;
 }
 
 .navbar a {
